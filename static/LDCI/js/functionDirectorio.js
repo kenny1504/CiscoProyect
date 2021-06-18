@@ -49,15 +49,13 @@ var tbldirectorio = null;
                     }
                 },
         columns: [
-            {"data": "name"},
-            {"data": "description"},
-            {"data": "product"},
-            {"data": "model"},
-            {"data": "class"},
-            {"data": "protocol"},
-            {"data": "protocolSide"},
-
-
+            {"data": "nickname"},
+            {"data": "firstname"},
+            {"data": "lastname"},
+            {"data": "telephonenumber"},
+            {"data": "mailid"},
+            {"data": "keypadenteredalternateidentifier"},
+            {"data": "department"},
         ]
         });
 
